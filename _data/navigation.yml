@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Education & Employment"
-    url: "/#-教育和工作经历"
+  - title: "Education and Employment"
+    url: "/#education-employment"
 
   - title: "Research Areas"
     url: "/#-研究内容"
