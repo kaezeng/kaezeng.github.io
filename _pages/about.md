@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+我的研究方向是量子动力学理论. 更具体地说, 我们主要关注电声/电子-振动耦合起重要作用的体系. 这类体系在模型上以spin-boson model和vibronic model为代表, 在实际材料中则对应核量子效应重要的晶体和大多数有机小分子. 为了理解它们的性质和规律, 我们通常结合预设的或者第一性原理计算的参数, 使用量子动力学方法得到体系的含时演化. 此外, 我也对电声/电子-振动耦合体系的基态性质 (分子结构和电子结构) 感兴趣且已有研究.
 
 <span class='anchor' id='education-employment'></span>
 
@@ -28,9 +26,13 @@ My research interest includes neural machine translation and computer vision. I 
 - 2018 - 2024, 华南理工大学, 物理学, 博士.
 - 2014 - 2018, 华南理工大学, 应用物理学, 学士.
 
+<span class='anchor' id='research-areas'></span>
+
 # 🧭 研究内容
 - 复杂体系的平衡态与非平衡态问题. 
 - 有机半导体的光, 电, 磁性质.
+
+<span class='anchor' id='publications'></span>
 
 # 📝 发表论文 (一作)
 
@@ -48,8 +50,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 - Variational squeezed Davydov ansatz for realistic chemical systems with nonlinear vibronic coupling, J. Chem. Theory Comput. 18, 1255 (2022). 提出一种描述非线性振动的相干态/压缩态方法.
 
+<span class='anchor' id='teaching'></span>
+
 # 📖 教学情况
 承担本科生课程《大学物理》和《大学物理实验》.
 
-# 🅾️ 其他信息
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<span class='anchor' id='others'></span>
+
+# 👏 其他信息
+欢迎对计算物理和量子化学感兴趣的同学联系.
