@@ -7,13 +7,13 @@ main:
     url: "/#education-employment"
 
   - title: "Research Areas"
-    url: "/#-研究内容"
+    url: "/#research-areas"
 
   - title: "Publications"
-    url: "/#-发表论文-(一作)"
+    url: "/#publications"
 
   - title: "Teaching"
-    url: "/#-教学情况"
+    url: "/#teaching"
 
   - title: "Others"
-    url: "/#-其他信息"
+    url: "/#others"
