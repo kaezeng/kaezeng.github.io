@@ -50,7 +50,7 @@ redirect_from:
 
 - Variational squeezed Davydov ansatz for realistic chemical systems with nonlinear vibronic coupling, J. Chem. Theory Comput. 18, 1255 (2022). 提出一种描述非线性振动的相干态/压缩态方法.
 
-<span class='anchor' id='lecture'></span>
+<span class='anchor' id='lectures'></span>
 
 # 📖 教学情况
 承担本科生课程《大学物理》和《大学物理实验》.
