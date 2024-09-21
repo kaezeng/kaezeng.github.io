@@ -3,20 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Education & Employment"
+    url: "/#-教育和工作经历"
+
+  - title: "Research Areas"
+    url: "/#-研究内容"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-发表论文-(一作)"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Teaching"
+    url: "/#-教学情况"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Others"
+    url: "/#-其他信息"
