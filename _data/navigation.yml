@@ -12,8 +12,8 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Teaching"
-    url: "/#teaching"
+  - title: "Lecture"
+    url: "/#lecture"
 
   - title: "Others"
     url: "/#others"
