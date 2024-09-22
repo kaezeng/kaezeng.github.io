@@ -51,9 +51,9 @@ redirect_from:
 
 **[2] 自由基体系**
 
-- Quantum dynamics simulation of doublet excitation and magnetic field effect in neutral radical materials, J. Phys. Chem. Lett. 11, 1194 (2020). 计算单自由基分子的光激发过程.
+- Quantum dynamics simulation of doublet excitation and magnetic field effect in neutral radical materials, J. Phys. Chem. Lett. 11, 1194 (2020). 讨论原子核振动如何影响一种单自由基发光材料的光激发过程.
 
-- Comprehending radicals, diradicals and their bondings in aggregates of imide-fused polycyclic aromatic hydrocarbons, Jiani Liu, **Jiarui Zeng**, Duokai Zhao, Yao Yao, Dehua Hu and Yuguang Ma, Chem. Sci. 13, 9985 (2022). 计算双自由基分子的光学和磁学性质.
+- Comprehending radicals, diradicals and their bondings in aggregates of imide-fused polycyclic aromatic hydrocarbons, Jiani Liu, **Jiarui Zeng**, Duokai Zhao, Yao Yao, Dehua Hu and Yuguang Ma, Chem. Sci. 13, 9985 (2022). 确定一种双自由基铁磁材料的分子结构和光学性质.
 
 **[3] 量子动力学方法**
 
