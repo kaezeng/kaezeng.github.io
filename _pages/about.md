@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我的研究方向是量子动力学理论. 更具体地说, 我们主要关注电声/电子-振动耦合起重要作用的体系. 这类体系在模型上以 spin-boson model 和 vibronic model 为代表, 在实际材料中则对应核量子效应重要的晶体和大多数有机小分子. 为了理解它们的性质和规律, 我们通常结合预设的或者第一性原理计算的参数, 使用量子动力学方法得到体系的含时演化. 此外, 我也对电声/电子-振动耦合体系的基态性质 (分子结构和电子结构) 感兴趣且已有研究.
+我的研究方向是量子动力学理论.
+
+更具体地说, 我们主要关注电声/电子-振动耦合起重要作用的体系. 这类体系在模型上以 spin-boson model 和 vibronic model 为代表, 在实际材料中则对应核量子效应重要的晶体和大多数有机小分子. 为了理解它们的性质和规律, 通常我们结合预设的或者第一性原理计算的参数, 使用量子动力学方法得到体系的含时演化.
+
+此外, 我也对电声/电子-振动耦合体系的基态性质 (分子结构和电子结构) 感兴趣并且已有研究.
 
 <span class='anchor' id='education-employment'></span>
 
@@ -29,7 +33,7 @@ redirect_from:
 <span class='anchor' id='research-areas'></span>
 
 # 🧭 研究内容
-- 复杂体系的平衡态与非平衡态问题. 
+- 复杂体系的非平衡态和平衡态问题. 
 - 有机半导体的光, 电, 磁性质.
 
 <span class='anchor' id='publications'></span>
@@ -48,7 +52,7 @@ redirect_from:
 
 **[3] 量子动力学方法**
 
-- Variational squeezed Davydov ansatz for realistic chemical systems with nonlinear vibronic coupling, J. Chem. Theory Comput. 18, 1255 (2022). 提出一种描述非线性振动的相干态/压缩态方法.
+- Variational squeezed Davydov ansatz for realistic chemical systems with nonlinear vibronic coupling, J. Chem. Theory Comput. 18, 1255 (2022). 提出一种描述非线性振动的相干态和压缩态方法.
 
 <span class='anchor' id='lectures'></span>
 
@@ -58,4 +62,4 @@ redirect_from:
 <span class='anchor' id='others'></span>
 
 # 👏 其他信息
-目前计划每年招收硕士研究生 0 人, 欢迎对计算物理和量子化学感兴趣的同学联系, 同时也欢迎本科生联系我做毕业设计. 刚开始起步的时候没有相应的科研技能是非常正常的事, 因此不必对理论研究的学习产生畏惧心理. 然而, 希望你能有即使硬着头皮也要搞下去的心态, 同时也要多读文献和多跟指导老师交流.
+目前计划每年招收硕士研究生 0 人, 欢迎对计算物理和量子化学感兴趣的同学联系, 同时也欢迎本科生联系我做毕业设计. 刚开始起步的时候没有相应的科研技能是非常正常的事, 因此不必对理论研究的学习产生畏惧心理. 然而, 希望你能保持「即使硬着头皮也要搞下去」的心态, 同时也要多读文献和多和指导老师交流.
