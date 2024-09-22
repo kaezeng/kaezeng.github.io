@@ -19,26 +19,29 @@ redirect_from:
 
 我的研究方向是量子动力学理论.
 
-更具体地说, 我们主要关注电声/电子-振动耦合起重要作用的体系. 这类体系在模型上以 spin-boson model 和 vibronic model 为代表, 在实际材料中则对应核量子效应重要的晶体和大多数有机小分子. 为了理解它们的性质和规律, 通常我们结合预设的或者第一性原理计算的参数, 使用量子动力学方法得到相应的含时演化.
+更具体地说, 我们主要关注电声/电子-振动耦合起重要作用的体系. 这类体系在模型上以 spin-boson model 和 vibronic model 为代表, 在实际材料中则对应核量子效应重要的晶体和大多数有机小分子. 为了理解它们的性质和规律, 通常我们结合预设的或者第一性原理计算的参数, 使用量子动力学方法得到相应的含时演化. 目前已在 PRA, JCTC, JPCL, Chem. Sci. 等国际学术期刊上发表论文 10 篇.
 
 此外, 我也对电声/电子-振动耦合体系的基态性质 (分子结构和电子结构) 感兴趣并且已有研究.
 
 <span class='anchor' id='education-employment'></span>
 
 # 🧑‍🏫 教育和工作经历
-- 2024 -, 海南大学, 讲师. 
+- 2024 -, 海南大学, 讲师.
+
 - 2018 - 2024, 华南理工大学, 物理学, 博士.
+
 - 2014 - 2018, 华南理工大学, 应用物理学, 学士.
 
 <span class='anchor' id='research-areas'></span>
 
 # 🧭 研究内容
-- 复杂体系的非平衡态和平衡态问题. 
+- 复杂体系的非平衡态和平衡态问题.
+
 - 有机半导体的光, 电, 磁性质.
 
 <span class='anchor' id='publications'></span>
 
-# 📝 发表论文 (一作)
+# 📝 代表性论文
 
 **[1] 开放量子体系**
 
@@ -48,7 +51,9 @@ redirect_from:
 
 **[2] 自由基体系**
 
-- Quantum dynamics simulation of doublet excitation and magnetic field effect in neutral radical materials, J. Phys. Chem. Lett. 11, 1194 (2020). 计算有机单自由基分子的光激发过程.
+- Quantum dynamics simulation of doublet excitation and magnetic field effect in neutral radical materials, J. Phys. Chem. Lett. 11, 1194 (2020). 计算单自由基分子的光激发过程.
+
+- Comprehending radicals, diradicals and their bondings in aggregates of imide-fused polycyclic aromatic hydrocarbons, Jiani Liu, **Jiarui Zeng**, Duokai Zhao, Yao Yao, Dehua Hu and Yuguang Ma, Chem. Sci. 13, 9985 (2022). 计算双自由基分子的光学和磁学性质.
 
 **[3] 量子动力学方法**
 
