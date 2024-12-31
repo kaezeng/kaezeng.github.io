@@ -19,18 +19,18 @@ redirect_from:
 
 我的研究方向是量子动力学理论.
 
-更具体地说, 我们主要关注电声/电子-振动耦合起重要作用的体系. 这类体系在模型上以 spin-boson model 和 vibronic model 为代表, 在实际材料中则对应核量子效应重要的晶体和大多数有机小分子. 为了理解它们的性质和规律, 通常我们结合预设的或者第一性原理计算得到的简化模型, 使用量子动力学方法得到相应的含时演化. 目前已在 PRA, JCTC, JPCL, Chem. Sci. 等国际学术期刊上发表论文 10 篇.
+更具体地说, 我们主要关注电声/电子-振动耦合起重要作用的体系. 这类体系在模型上以 spin-boson model 和 vibronic model 为代表, 在实际材料中则对应核量子效应重要的晶体和大多数有机小分子. 对于前者, 它们通常会导致系统的退相干过程, 光和物质相互作用中的光子泄漏, 以及量子热机等有趣的现象. 为了理解它们的性质和规律, 通常我们结合预设的或者第一性原理计算得到的简化模型, 使用量子动力学方法得到相应的含时演化. 目前已在 PRA, JCTC, JPCL 等国际学术期刊上以第一作者身份发表论文 5 篇.
 
 此外, 我也对电声/电子-振动耦合体系的基态性质 (分子结构和电子结构) 感兴趣并且已有研究.
 
 <span class='anchor' id='education-employment'></span>
 
 # 🧑‍🏫 教育和工作经历
-- 2024 -, 海南大学, 讲师.
+- 2024–, 海南大学, 讲师.
 
-- 2018 - 2024, 华南理工大学, 物理学, 博士.
+- 2018–2024, 华南理工大学, 物理学, 博士.
 
-- 2014 - 2018, 华南理工大学, 应用物理学, 学士.
+- 2014–2018, 华南理工大学, 应用物理学, 学士.
 
 <span class='anchor' id='research-areas'></span>
 
@@ -44,6 +44,8 @@ redirect_from:
 # 📝 代表性论文
 
 **[1] 开放量子体系**
+
+- Classical-quantum correspondence in noise-based dissipative systems, Phys. Rev. A 110, 062219 (2024). 提出一种经典噪声无法描述有限温耗散的反例.
 
 - Perturbative dynamics in the pseudocoherent phase of the spin-boson model, Phys. Rev. A 110, 012212 (2024). 通过强耦合下的微扰展开揭示赝相干相是如何由环境导致的.
 
@@ -62,7 +64,7 @@ redirect_from:
 <span class='anchor' id='lectures'></span>
 
 # 📖 教学情况
-承担本科生课程《大学物理》和《大学物理实验》.
+参与本科生课程《大学物理》和《大学物理实验》.
 
 <span class='anchor' id='others'></span>
 
